@@ -1,0 +1,6 @@
+#! /bin/sh
+
+ps -ef | grep tomcat | grep catalina
+
+
+
